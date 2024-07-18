@@ -1,5 +1,5 @@
 ## Password Generator App
-Live Demo: https://passwordgenerator-annant24012.netlify.app/
+Live Demo: https://passwordgenerator-annant.netlify.app/
 
 ### Overview
 This project is a simple and intuitive password generator application built with React and styled using TailwindCSS. It allows users to generate random passwords with customizable criteria, such as including numbers and special characters. The generated password can be easily copied to the clipboard with a single click.
